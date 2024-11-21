@@ -1,4 +1,4 @@
-![Banner](https://media.giphy.com/media/3o7btUu9rSItGl93aI/giphy.gif)
+![Banner]("C:\Users\user\Downloads\Pastime.gif")
 <h1 align="center">Hi 👋, I'm Naveen Kumar</h1>
 <h3 align="center">Passionate about transforming raw data into actionable insights to solve real-world problems. I specialize in data analysis, data visualization, and machine learning.</h3>
 <img align="right" alt="Coding" width="400" src="https://yourimageurl.com/yourimage.gif">
