@@ -1,7 +1,7 @@
 ![Banner]("C:\Users\user\Downloads\Pastime.gif")
 <h1 align="center">Hi 👋, I'm Naveen Kumar</h1>
 <h3 align="center">Passionate about transforming raw data into actionable insights to solve real-world problems. I specialize in data analysis, data visualization, and machine learning.</h3>
-<img align="right" alt="Coding" width="400" src="(https://lottiefiles.com/free-animation/data-block-9qKVJ19b4A)">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Finstitute.careerguide.com%2F12-things-to-know-about-bachelors-in-data-science%2F&psig=AOvVaw3T5srisrAsDA9cCekiIeeq&ust=1732263068708000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwitnJv4_OyJAxVfX2wGHaP_IPUQjRx6BAgAEBg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveennnkumar-bit&label=Profile%20views&color=0e75b6&style=flat" alt="naveennnkumar-bit" /> </p>
 
